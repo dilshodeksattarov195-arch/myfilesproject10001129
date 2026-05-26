@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcrocess",
+        "uuid": 6777387,
+        "checksum": "pgqiz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
